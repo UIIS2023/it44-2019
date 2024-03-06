@@ -1,0 +1,1 @@
+Point -> (107, 97), java.awt.Color[r=255,g=0,b=0]Point -> (83, 221), java.awt.Color[r=255,g=0,b=0]Point -> (211, 235), java.awt.Color[r=255,g=0,b=0]Point -> (103, 146), java.awt.Color[r=255,g=0,b=0]Point -> (156, 272), java.awt.Color[r=255,g=0,b=0]UnDo -> command
